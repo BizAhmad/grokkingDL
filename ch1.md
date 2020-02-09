@@ -1,6 +1,6 @@
-#Chapter 1
+# Chapter 1
 
-###What you need:
+### What you need:
  - Jupyter Notebook
  - Numpy
  - python 2.7
