@@ -1,8 +1,5 @@
-# grokkingDL
-Grokking Deep Learning Book Notes and Exercises 
-
 #Chapter 2
-##What is ML?
+###What is ML?
 Machines observe a pattern and attempt to imitate it in some way that can be either directly (supervised) or indirectly (unsupervised)
 
 ####Supervised Learning:
