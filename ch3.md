@@ -15,7 +15,7 @@
 ---
 
 ##### 1) an empty network
-<img align="left" width="280" height="100" src="readme-images/ch3-simplest-nn-1.png">
+<img align="left" width="300" height="100" src="readme-images/ch3-simplest-nn-1.png">
 
 ```python
 
@@ -47,7 +47,7 @@
 
     def neural_net(input, weight):
         return input * weight
-        
+
 
 ```
 
