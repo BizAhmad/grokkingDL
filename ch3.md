@@ -15,7 +15,8 @@
 ---
 ##### 1) an empty network
 <img align="left" width="280" height="100" src="readme-images/ch3-simplest-nn-1.png">
-```python 
+
+```python
 
 weight = 0.1
 def neural_net(input, weight):
@@ -25,25 +26,32 @@ def neural_net(input, weight):
 ---
 ##### 2) inserting one datapoint
 <img align="left" width="300"  height="100" src="readme-images/ch3-simplest-nn-2.png">
-```python 
+
+```python
+
 num_of_toes = [8.5, 9.5, 10, 9]
 input = num_of_toes[0]
 pred = neural_net(input, weight)
 print(pred)
 ```
+
 ---
 ##### 3) multiplying input by weight
 <img align="left" width="300" height="100" src="readme-images/ch3-simplest-nn-3.png">
+
 ```python 
+
 def neural_net(input, weight):
     return input * weight
 
 
 ```
+
 ---
 ##### 4) multiplying input by weight
 <img align="left" width="300" height="100" src="readme-images/ch3-simplest-nn-4.png">
-```python 
+
+```python
 num_of_toes = [8.5, 9.5, 10, 9]
 input = num_of_toes[0]
 pred = neural_net(input, weight)
@@ -55,13 +63,17 @@ pred = neural_net(input, weight)
  - Until now, a nural netowrk is one or more weights that you can multiply by the input data to make a prediction
 
  - The Nework:
- ```python 
+ 
+ ```python
+ 
     weight = 0.1
     def neural_net(input, weight):
         return input * weight
  ```
+
  - How you use the network to predict:
- ```python 
+ ```python
+ 
     num_of_toes = [8.5, 9.5, 10, 9]
     input = num_of_toes[0]
     pred = neural_net(input, weight) #prints 0.85
