@@ -1,5 +1,5 @@
 # grokkingDL
-Grokking Deep Learning Book Notes and Exercises 
+[Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) Notes 
 
 
 #### Chapter 1: [Intro](https://github.com/BizAhmad/grokkingDL/blob/master/ch1.md "Chapter 1 - Introducing Deep Learning")  
