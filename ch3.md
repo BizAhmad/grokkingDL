@@ -25,6 +25,7 @@ def neural_net(input, weight):
 ---
 ##### 2) inserting one datapoint
 <img align="left" width="300"  height="100" src="readme-images/ch3-simplest-nn-2.png">
+
 ```python 
 num_of_toes = [8.5, 9.5, 10, 9]
 input = num_of_toes[0]
